@@ -26,7 +26,21 @@ function App() {
           />
         </div>
       </div>
+      <div className="wrapper">
+        <div className="col">
+          <a href="https://mailchi.mp/1f983bef8dd8/atlrapwater">
+            Click here for FREE download!
+          </a>
+        </div>
+      </div>
       <img src={footer} className="footer" alt="footer" />
+      <div className="wrapper">
+        <div className="col">
+          <a className="footerEmail" href="mailto:rickyraw@gmail.com">
+            Email | rickyraw@gmail.com
+          </a>
+        </div>
+      </div>
     </div>
   );
 }
