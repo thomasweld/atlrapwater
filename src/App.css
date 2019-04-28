@@ -14,8 +14,15 @@
 }
 
 .App-logo {
+  padding: 10% 2%;
   display: flex;
   width: 100%;
   max-height: 600px;
   max-width: 600px;
+}
+
+.footer {
+  width: 100%;
+  max-height: 400px;
+  padding-bottom: 8%;
 }
